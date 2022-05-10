@@ -16,3 +16,13 @@ I was 14 when I firstly ran my hello world program. Since than I have been addin
 > Instagram<br/>
 > LinkedIn<br/>
 > Tinder<br/>
+
+<br/>
+
+**Contact**
+<br/>
+<a href="https://www.facebook.com/sichinavailia/" target="blank"><img align="center" height="40" src="https://www.facebook.com/images/fb_icon_325x325.png"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ilia-sichinava-a46104187/" target="blank"><img align="center" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"/></a>
+&nbsp;
+<a href="https://www.codewars.com/users/iuliuss" target="blank"><img align="center" height="40" src="https://user-images.githubusercontent.com/22793372/167597378-55e4c89b-6a2a-4f53-bc4b-8c82792b8696.png"/></a>
