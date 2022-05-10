@@ -1,6 +1,4 @@
-# Ilia Sichinava
-	 
-Gamarjoba, 
+# *Gamarjoba,* 
 # My name is Ilia Sichinava, Full-Stack Javascript Developer.
 
 I was 14 when I firstly ran my hello world program. Since than I have been adding small blocks to my knowledge.<br/>
