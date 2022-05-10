@@ -1,9 +1,5 @@
 # Ilia Sichinava
-
-<img src="https://avatars.githubusercontent.com/u/22793372?v=4"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; width: 250px; height: 250px;" />
-		 
+	 
 Gamarjoba, 
 # My name is Ilia Sichinava, Full-Stack Javascript Developer.
 
